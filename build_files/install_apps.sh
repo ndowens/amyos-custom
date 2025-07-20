@@ -30,6 +30,7 @@ declare -A RPM_PACKAGES=(
     procps-ng \
     procps-ng-devel \
     neovim \
+    plasma-workspace-x11 \
     qemu-kvm \
     scx-scheds \
     thefuck \
